@@ -1,0 +1,1 @@
+This repo contains the basic python programs of Lists and Strings
